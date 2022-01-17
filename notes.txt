@@ -140,3 +140,12 @@ You should always be using the tripple equality operator.  Even in a case where 
 
 Section 23 - Boolean Logic
 
+Uses true and false values to solve problems.
+
+and, or, and not operators...
+
+only if a AND b are true will the AND operator be true
+
+if a OR b are true then the OR operator becomes true
+
+not operator inverts a boolean value.

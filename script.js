@@ -219,7 +219,7 @@ if(height) {
 }
 // another example, but head to using a ZERO for the height. will retunr false(UNDEFINED).
 */
-
+/*
 const age = 18;
 if (age === 18) console.log('You just became an adult');
 if (age == '18') console.log('You just became an adult');
@@ -244,3 +244,11 @@ if (favorite === 23) {
 }
 
 if (favorite !== 23) console.log('Why not 23?');
+*/
+
+const age = 16;
+
+console.log(age >= 20);
+console.log(age < 30);
+
+
